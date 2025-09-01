@@ -3,10 +3,10 @@
 A simple web application for managing waste bins across the city with real-time monitoring and analytics dashboard.
 
 
-<img width="1365" height="640" alt="image" src="https://github.com/user-attachments/assets/196c78a1-9d01-4ac4-9f55-a6d280fc3b02" />
-<img width="1365" height="642" alt="image" src="https://github.com/user-attachments/assets/ee539b18-1a2a-4837-836a-bfa6727763aa" />
-<img width="1365" height="634" alt="image" src="https://github.com/user-attachments/assets/c9ca8729-24dc-4f8b-be50-4272a127142b" />
-<img width="1365" height="645" alt="image" src="https://github.com/user-attachments/assets/20caa246-4507-4815-bb10-457ff64f5446" />
+<img width="1365" height="639" alt="image" src="https://github.com/user-attachments/assets/b414b4bc-4e96-4c9e-b46c-ac11e8abc4c3" />
+<img width="1364" height="640" alt="image" src="https://github.com/user-attachments/assets/5fa72831-cda6-4843-a26b-ce57fe95ac7d" />
+<img width="1365" height="631" alt="image" src="https://github.com/user-attachments/assets/6d1f4c9b-de1b-4f3e-8569-4a8e3a4e2547" />
+
 
 ## Features
 
