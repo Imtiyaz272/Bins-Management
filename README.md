@@ -1,4 +1,4 @@
-# 🗑️ Smart Bins Management System
+# 🗑️ Bins Management System
 
 A simple web application for managing waste bins across the city with real-time monitoring and analytics dashboard.
 
